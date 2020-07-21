@@ -1,0 +1,6 @@
+money.xlsx
+money_current.xlsx
+backups/*
+__pycache__/*
+token.txt
+reset.bat
